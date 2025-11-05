@@ -1,7 +1,6 @@
 ## Hi there! Welcome to my profile 👋
 ---
 
-                **"Learning every day to become a better version of myself"**
 
 What I love 🌱
 - Badminton 🏸
