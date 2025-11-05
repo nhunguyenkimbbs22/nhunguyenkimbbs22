@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there! Welcome to my profile 👋
+
+---
+
+"Learning every day to become a better version of myself"
+
+What I love 🌱
+- Badminton 🏸
+- Studying 💡
+- Traveling 🌍
+- Listening 🧀
+- Matcha & conversation 🍫
 
 <!--
 **nhunguyenkimbbs22/nhunguyenkimbbs22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
