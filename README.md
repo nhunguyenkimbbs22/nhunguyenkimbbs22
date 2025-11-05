@@ -1,7 +1,7 @@
 ## Hi there! Welcome to my profile 👋
 ---
 
-"Learning every day to become a better version of myself"
+                **"Learning every day to become a better version of myself"**
 
 What I love 🌱
 - Badminton 🏸
@@ -10,7 +10,8 @@ What I love 🌱
 - Listening 🧀
 - Matcha & conversation 🍫
   
- ![GIF by Swiss Badminton](https://github.com/user-attachments/assets/c205816a-ec55-412e-addf-406e979148ee)
+ ![Sport Bunny GIF by bunny_is_moving](https://github.com/user-attachments/assets/dc895e9c-2229-4fab-8f91-1eefb3bfe3f9)
+
 
 
 <!--
