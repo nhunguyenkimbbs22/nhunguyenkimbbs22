@@ -1,6 +1,6 @@
-## Hi there! Welcome to my profile 👋
+## Hi there! It's me - who you're looking for 👋
 ---
-
+  **"Just a learner trying to make things better."**
 
 What I love 🌱
 - Badminton 🏸
